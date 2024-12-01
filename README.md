@@ -19,6 +19,4 @@
 ## Skillsets
 | Programming Languages | Database Management |
 |-----------------------|---------------------|
-|          Java         |         SQL         |
-
-   
+|          Java         |         SQL         |                                                                                                                                                                                                      
